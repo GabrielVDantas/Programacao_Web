@@ -168,7 +168,6 @@ function calculaValorFinal() {
     const custoFabricaValor = parseFloat(custoFabrica.value);
     const percDistribuidorValor = parseFloat(percDistribuidor.value);
     const percImpostoValor = parseFloat(percImposto.value);
-
     const calculoValorfinal = custoFabricaValor + (custoFabricaValor * percDistribuidorValor) + (custoFabricaValor * percImpostoValor);
 
     valorFinal.value = calculoValorfinal;
