@@ -1,0 +1,7 @@
+<h1>{{titulo}}</h1>
+<div class="mb-3">
+    <input type="number" class="form-control" [(ngModel)]="numero1">
+    <input type="number" class="form-control" [(ngModel)]="numero2">
+    <button class="btn-primary" (click) = "somar()"></button>
+</div>
+<p>Resultado: {{numero1 + numero2}}</p>
