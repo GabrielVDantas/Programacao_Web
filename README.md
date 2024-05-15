@@ -1,4 +1,4 @@
-## Introdução
+## Sobre o projeto
 
 Esse reporitório armazena trabalhos relacionados às aulas de Programação Web.
 
@@ -9,10 +9,10 @@ Esse reporitório armazena trabalhos relacionados às aulas de Programação Web
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=ff0211)
 
 ## Autor
 
 - Gabriel Viegas Dantas
-  - gvdantas2028@gmail.com
+  - gvdantas2808@gmail.com
   - 224033
-
