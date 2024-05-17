@@ -5,7 +5,8 @@
       <div class="d-flex justify-content-between align-items-center">
         @for (tarefa of tarefas; track tarefa.id) {
         <div class="d-flex flex-column align-items-center">
-          <li class="list-group-item mx-5 text-center" [ngClass]="{'texto-tachado': tarefa.status}"> {{ tarefa.descricao }} </li>
+          <li class="list-group-item mx-5 text-center" [ngClass]="{'texto-tachado': tarefa.status}"> {{ tarefa.descricao
+            }} </li>
           <button class="btn btn-secondary my-3" (click)="alternarStatus(tarefa)">Alterar status</button>
         </div>
         } @empty {

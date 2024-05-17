@@ -17,11 +17,11 @@ export class TarefaComponent implements OnInit{
   }
 
   tarefas = [
-    { id: 1, descricao: "Tarefa de HTML", status: false },
-    { id: 2, descricao: "Tarefa de CSS", status: false },
-    { id: 3, descricao: "Tarefa de Angular", status: true },
+    { id: 1, descricao: "Tarefa de React", status: false },
+    { id: 2, descricao: "Tarefa de Angular", status: false },
+    { id: 3, descricao: "Tarefa de Java", status: true },
     { id: 4, descricao: "Tarefa de Python", status: false },
-    { id: 5, descricao: "Tarefa de Java", status: true },
+    { id: 5, descricao: "Tarefa de Typescript", status: true },
     { id: 6, descricao: "Tarefa de Javascript", status: true },
   ];
  
